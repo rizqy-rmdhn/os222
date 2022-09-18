@@ -37,3 +37,23 @@ So, it feels like a game and it made me learn it better!
 
 4. [Sed cheatsheet](https://quickref.me/sed)<br>
 This website gives you the cheat sheet containing sed commands and some common sed tricks. It also contains the description for each commands, so it is easy to comprehend.
+
+## Week 02
+
+1. [Protection & Security in OS](https://www.youtube.com/watch?v=DKb7KhfoZmU)<br>
+This video explains to you about Protection and Security in Operating System. It explains using the Silberschatz Slides, so it helped me to learn for the quiz.
+The video discussed the main points of the slides, so it is pretty quick. However, the speaker has an Indian accent and that was hard for me to follow.
+
+2. [Cyber Security Introduction (Cyber Security Part 1)](https://www.silicondojo.com/cyber-security-introduction-cyber-security-part-1/)<br>
+This website gives you an overview of Cyber Security. Furthermore, it also links you to the video where it explains about cyber security. 
+The contents of the website are straight foward, so it is easy to take notes.
+
+3. [Operating System Security - CompTIA Security+ SY0-501 - 3.3](https://www.youtube.com/watch?v=fAhvVqw_dus)<br>
+The video explains about Operating System Security. It is only 12 minutes long and the speaker presets it well.
+This video also gives you tips and trick to make your computer safe! It tells you what to do and what not to do!
+
+4. [Operating System Security](https://www.youtube.com/watch?v=07BFhXIpWmA)<br>
+The video introduces us to Operating System Security. The video uses simple and colorful presentation to explain it!
+This video will definitely help you to get to know OS Security a bit more and it is only 6 minutes long!
+
+
