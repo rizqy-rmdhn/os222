@@ -56,4 +56,18 @@ This video also gives you tips and trick to make your computer safe! It tells yo
 The video introduces us to Operating System Security. The video uses simple and colorful presentation to explain it!
 This video will definitely help you to get to know OS Security a bit more and it is only 6 minutes long!
 
+## Week 03
 
+1. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+The video will introduce its watcher to Files & File Systems in general. It will help the reader to grasp on the concept at first.
+It is rather quick, only 12 minutes! And it is full of colors and animations!
+
+2. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
+The video will give you an overview of Linux File Systems! The speaker explains it so well! It is in English and a short video!
+
+3. [FUSE - Kernel Docs](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+The article will help you understand all about FUSE. It really helps me to learn about the Linux file system. 
+The article is so detailed and well-explained! You should read this!
+
+4. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+The article is made by geeksforgeeks! It is easy to follow along. They explained the details so well. They even include photos to help!

@@ -37,6 +37,17 @@ ZCZC W02 60 L12 Assignment #02
 ZCZC W02 30 L21 Trying something
 ZCZC W02 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W02 20 L41 TXT/mylog.txt related.
-
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 20 L01 SCELE related
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 105 L99 Face-to-face lecture
+ZCZC W03 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 90 L05 Quiz related including studying
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 30 L64 Helping a friend (OS related problem)
+ZCZC W03 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 25 L41 TXT/mylog.txt related. 
 
 
