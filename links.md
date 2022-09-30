@@ -71,3 +71,20 @@ The article is so detailed and well-explained! You should read this!
 
 4. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 The article is made by geeksforgeeks! It is easy to follow along. They explained the details so well. They even include photos to help!
+
+## Week 04
+
+1. [C Printf Cheatsheet](https://legacy.cplusplus.com/reference/cstdio/printf/)<br>
+This article gives you explanation about the specified, flags, width, and precision of printf.
+The article also gives examples of how to do it. I understand so much from it.  It helped me with Quiz W04 a lot! 
+
+2. [Logical Address pada Sistem Operasi | Addressing, Shared Lib, Pointer | Sistem Operasi | OS](https://www.youtube.com/watch?v=AY-ctysI5jc)<br>
+This is a video by Mr. Mishbah. It's short and it helps me to understand the material before the lesson. It is also in Bahasa Indonesia.
+
+3. [CS 134 OS—7: Memory-Mapped Files](https://www.youtube.com/watch?v=nPIhoJ6lKeQ)<br>
+Another video recording from college lectures! The speaker thoroughly teaches you about memory mapping. It is in English, but it is easy to follow!
+
+4. [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
+This video introduces me to pointers. The video is also accompanied with great presentation. It is in english and less than 5 minutes long.
+The keynotes from the video help me comprehend all about pointers.
+
