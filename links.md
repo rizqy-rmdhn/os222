@@ -88,3 +88,17 @@ Another video recording from college lectures! The speaker thoroughly teaches yo
 This video introduces me to pointers. The video is also accompanied with great presentation. It is in english and less than 5 minutes long.
 The keynotes from the video help me comprehend all about pointers.
 
+## Week 05
+
+1. [Virtual Memory: What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br>
+The content of the video really helped me during the quiz. It explains all about virtual memory. It is relatively short.
+The speaker completes the video with so many visuals, so it is easy to understand it, especially about mapping!
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+The almighty GeeksForGeeks has a splendid article on virtual memory. It gives you details about paging, swapping, and thrashing.
+The article is a really good place to start learning about VM.
+
+3. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+University of Alabama in Huntsville has a wonderful notes on memory allocation. Though, it is quite short, it will help you understand about the material.
+The article also explain on pointer. Furthermore, it includes visualizations!
+ 
