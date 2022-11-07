@@ -102,3 +102,25 @@ The article is a really good place to start learning about VM.
 University of Alabama in Huntsville has a wonderful notes on memory allocation. Though, it is quite short, it will help you understand about the material.
 The article also explain on pointer. Furthermore, it includes visualizations!
  
+## Week 06
+
+1. [Processes and Threads (Concurrency Basics)](https://www.youtube.com/watch?v=Wv7mzX8w3jI)<br>
+This video explains about the differences between processes and threads, and concurrency vs parallelism.
+This quick video uses some visualizations to explains the basics of multi-threading programming.
+I recommend this video as a headstart for you to learn about the basics of concurrency and multi-threading programming.
+
+2. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
+This article explains about concurrency and multi-threading programming briefly.
+If you prefer reading article over watching video, this article suits for you.
+I recommend this article as an alternative headstart as it keeps its explanation clean :)
+
+3. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+This website... is somewhat unique ;)
+This website is basically a collection of notes for operating system course.
+It has technical explanations and rich visualization while describing concurrency thoroughly.
+I definitely recommend this "notes" if you really want to enhance your knowledge about concurrency.
+
+4. [Fork() in C Programming Language | Engineering Education (EngEd) Program](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This article helps me a lot to understand the concept of fork().
+In addition, I use this as a guidance while doing some demos in Week 06.
+I highly recommend this article to those who don't understand the basics of fork().
