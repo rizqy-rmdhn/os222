@@ -124,3 +124,37 @@ ZCZC W08 20 L64 Helping a friend (OS related problem)
 ZCZC W08 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W08 15 L41 TXT/mylog.txt related.
 ZCZC W08 20 L01 SCELE related
+ZCZC W09 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 30 L01 SCELE related
+ZCZC W09 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W09 100 L02 ZOOM meetings related
+ZCZC W09 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 105 L99 Face-to-face lecture
+ZCZC W09 55 L05 Quiz related including studying
+ZCZC W09 10 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W09 80 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 150 L19 Assignment #09
+ZCZC W09 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 60 L05 Quiz related including studying
+ZCZC W09 20 L64 Helping a friend (OS related problem)
+ZCZC W09 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W09 15 L41 TXT/mylog.txt related.
+ZCZC W09 20 L01 SCELE related
+ZCZC W10 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 30 L01 SCELE related
+ZCZC W10 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W10 100 L02 ZOOM meetings related
+ZCZC W10 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 105 L99 Face-to-face lecture
+ZCZC W10 55 L05 Quiz related including studying
+ZCZC W10 10 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W10 80 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 150 L20 Assignment #10
+ZCZC W10 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 60 L05 Quiz related including studying
+ZCZC W10 20 L64 Helping a friend (OS related problem)
+ZCZC W10 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W10 15 L41 TXT/mylog.txt related.
+ZCZC W10 20 L01 SCELE related

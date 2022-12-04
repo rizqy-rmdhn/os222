@@ -151,14 +151,42 @@ This is a good introduction to understand the concept of Linux From Scratch in I
 I couldn't find any better materials in Indonesian to explain the basic concepts of Linux From Scratch.
 I think this might give you a big picture to understand the essentials of Linux From Scratch.<br>
 
-> I'll start shortening Linux From Scratch as LFS; starting now.
-
 2. [Linux From Scratch - Version 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
-This is the official guidance to make the latest version of LFS (current latest release is 1st September 2022, when this links resource is written).
-As Mr. Rahmat says, please expect downtime as a "normal" situation happened in this website.
-Please understand and comprehend this guide thoroughly to get the best output.
+This is the official guide to make the latest version of LFS (current latest release is 1st September 2022, when this links resource is written).
+It really helps with building LFS. But, please read carefully!
 
 3. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
 This is one of the resources given by Mr. Rahmat in this course to construct and make LFS.
 I think this playlist is the best and latest playlist as an audiovisual guidance if you're inexperienced to compile programs and do the guidance without any helps.
 I know there are a lot of noobs out there, so please use this playlist as the best audiovisual guidance to finish the final assignment of this course. This video personally helped me with WEEK-08
+
+## Week 09
+1. [Linux From Scratch - Wikipedia bahasa Indonesia, ensiklopedia bebas](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This is a good introduction to understand the concept of Linux From Scratch in Indonesian.
+I couldn't find any better materials in Indonesian to explain the basic concepts of Linux From Scratch.
+I think this might give you a big picture to understand the essentials of Linux From Scratch.<br>
+
+2. [Linux From Scratch - Version 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+This is the official guide to make the latest version of LFS (current latest release is 1st September 2022, when this links resource is written).
+It really helps with building LFS. But, please read carefully!
+
+3. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This is one of the resources given by Mr. Rahmat in this course to construct and make LFS.
+I think this playlist is the best and latest playlist as an audiovisual guidance if you're inexperienced to compile programs and do the guidance without any helps.
+I know there are a lot of noobs out there, so please use this playlist as the best audiovisual guidance to finish the final assignment of this course.
+
+
+## Week 10
+1. [Linux From Scratch - Wikipedia bahasa Indonesia, ensiklopedia bebas](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This is a good introduction to understand the concept of Linux From Scratch in Indonesian.
+I couldn't find any better materials in Indonesian to explain the basic concepts of Linux From Scratch.
+I think this might give you a big picture to understand the essentials of Linux From Scratch.<br>
+
+2. [Linux From Scratch - Version 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+This is the official guide to make the latest version of LFS (current latest release is 1st September 2022, when this links resource is written).
+It really helps with building LFS. But, please read carefully!
+
+3. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This is one of the resources given by Mr. Rahmat in this course to construct and make LFS.
+I think this playlist is the best and latest playlist as an audiovisual guidance if you're inexperienced to compile programs and do the guidance without any helps.
+I know there are a lot of noobs out there, so please use this playlist as the best audiovisual guidance to finish the final assignment of this course.
